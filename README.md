@@ -11,7 +11,7 @@ Hey there, I'm Oleksandr, or Olek for short!
   
 ### About Me :
 
-Passionate DevOps/Software Engineer / Team Lead
+Passionate DevOps / Software Engineer / Team Lead
 
 ### My stack and tools :
 Python, Swagger, SQL, MongoDB, Java, Spring, Bash, Docker, GitLab, Jenkins, SAAS, AWS, Azure
@@ -36,7 +36,7 @@ Python, Swagger, SQL, MongoDB, Java, Spring, Bash, Docker, GitLab, Jenkins, SAAS
       <br>MongoDB
     </td>
     <td align="center" width="88">
-        <img src="./images/05-python.svg" alt="Java" width="44" height="44"/>
+        <img src="./images/05-java.svg" alt="Java" width="44" height="44"/>
       <br>Java
     </td>
     <td align="center" width="88">
@@ -52,14 +52,18 @@ Python, Swagger, SQL, MongoDB, Java, Spring, Bash, Docker, GitLab, Jenkins, SAAS
       <br>Bash
     </td>
     <td align="center" width="88">
-      <img src="./images/08-nodejs.svg" alt="Docker" width="44" height="44"/>
+      <img src="./images/08-docker.svg" alt="Docker" width="44" height="44"/>
       <br>Docker
     </td>
         <td align="center" width="88">
-       <img src="./images/09-dotnet.png" alt="Gitlab" width="44" height="44"/>
+       <img src="./images/09-GitLab.svg" alt="Gitlab" width="44" height="44"/>
       <br>Gitlab
+    </td>
+        <td align="center" width="88">
+       <img src="./images/10-GitHub.svg" alt="Gitlab" width="44" height="44"/>
+      <br>GitHub
       </td>
-  </tr>
+    </tr>
     <td align="center" width="88">
         <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
       <br>Sass
