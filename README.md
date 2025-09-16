@@ -27,6 +27,10 @@ Python, Swagger, SQL, MongoDB, Java, Spring, Bash, Docker, GitLab, Jenkins, SAAS
         <img src="./images/02-swagger.svg" alt="Swagger" width="44" height="44"/>
       <br>Swagger
     </td>
+    <td align="center" width="88">
+        <img src="./images/django.svg" alt="Django" width="44" height="44"/>
+      <br>Django
+    </td>
 <td align="center" width="88">
          <img src="./images/03-sql.svg" alt="SQL" width="44" height="44"/>
       <br>SQL
